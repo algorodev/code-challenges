@@ -9,7 +9,8 @@
   "private": false,
   "scripts": {
     "start": "nodemon index.ts",
-    "test": "jest"
+    "test": "jest",
+    "test:coverage": "jest --coverage"
   },
   "devDependencies": {
     "@types/jest": "^29.5.1",

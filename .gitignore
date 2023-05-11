@@ -1,5 +1,10 @@
+# JetBrains IDE
 .idea
 
+# Node artifact files
 node_modules
 
-yarn.lock
+# Test coverage
+coverage
+
+*.lock
