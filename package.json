@@ -1,0 +1,10 @@
+{
+  "name": "challenges",
+  "version": "0.0.0",
+  "description": "Project with code challenges resolved with TypeScript",
+  "main": "index.ts",
+  "repository": "https://github.com/algorodev/code-challenges.git",
+  "author": "me@algorodev.com",
+  "license": "MIT",
+  "private": false
+}
